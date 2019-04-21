@@ -6,3 +6,4 @@ print("branch 1 merge to branch 2")
 print("will branch 2 will merge ????")
 print("again merging to master branch")
 
+print("now i am in git ")
