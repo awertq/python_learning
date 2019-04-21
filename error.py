@@ -21,3 +21,5 @@ except Exception as e :
 
 finally:
 	print("at end every thing go right")
+
+print("THE END")
